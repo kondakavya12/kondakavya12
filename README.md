@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavya
-- 👀 I’m interested in learning & exploring things
-- 🌱 I’m currently doing B.E. ECE
+- 👀 Passionate front end developer
+- 🌱 Graduated -> B.E. ECE
 
 <!---
 kondakavya12/kondakavya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
